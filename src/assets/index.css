@@ -1,0 +1,23 @@
+.main-layer {
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.896796218487395) 41%, rgba(76,80,80,1) 100%);
+}
+
+.main-text-bold {
+    font-weight: bold;
+}
+
+.main-title-size {
+    font-size: 80px;
+    text-align: center;
+}
+
+.main-text-center {
+    text-align: center;
+}
+
+.color1 {color: #002034;}
+.color2 {color: #004361;}
+.color3 {color: #007298;}
+.color4 {color: #00add8;}
+.color5 {color: #00f6ff;}
